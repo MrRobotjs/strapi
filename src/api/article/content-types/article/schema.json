@@ -19,6 +19,16 @@
     "Content": {
       "type": "richtext",
       "required": true
+    },
+    "metaImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
