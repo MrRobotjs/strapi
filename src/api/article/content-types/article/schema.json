@@ -33,6 +33,11 @@
     },
     "Date": {
       "type": "date"
+    },
+    "admin_user": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "admin::user"
     }
   }
 }
