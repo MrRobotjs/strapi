@@ -18,6 +18,9 @@
     },
     "Content": {
       "type": "richtext"
+    },
+    "DateTime": {
+      "type": "datetime"
     }
   }
 }
