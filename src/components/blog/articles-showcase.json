@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blog_articles_showcases",
+  "info": {
+    "displayName": "Articles Carousel",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

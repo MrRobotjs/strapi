@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_navigation_mobile_navigations",
+  "info": {
+    "displayName": "Mobile Navigation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string",
+      "default": "Mobile Navigation"
+    },
+    "Tabs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "navigation.tab"
+    }
+  }
+}

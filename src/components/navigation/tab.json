@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_navigation_tabs",
+  "info": {
+    "displayName": "Tab",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "external": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

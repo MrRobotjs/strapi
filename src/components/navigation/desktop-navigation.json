@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_navigation_desktop_navigations",
+  "info": {
+    "displayName": "Desktop Navigation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "string",
+      "default": "Desktop Navigation"
+    },
+    "Tabs": {
+      "displayName": "Tab",
+      "type": "component",
+      "repeatable": true,
+      "component": "navigation.tab"
+    }
+  }
+}
