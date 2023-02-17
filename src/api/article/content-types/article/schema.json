@@ -39,8 +39,9 @@
       "relation": "oneToOne",
       "target": "admin::user"
     },
-    "email": {
-      "type": "email"
+    "bioIdentity": {
+      "type": "string",
+      "required": true
     }
   }
 }
